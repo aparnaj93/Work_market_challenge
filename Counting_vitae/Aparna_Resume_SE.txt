@@ -1,0 +1,69 @@
+APARNA JAYASURIYAN
+New York, NY | +1 984-528-9004 | aparna.j.suriyan@gmail.com
+LinkedIn | Github
+EDUCATION
+Long Island University
+Master of Science in Computer Science
+Visveswaraya Technological University
+Bachelor of Engineering in Computer Science
+
+Brooklyn, NY
+GPA: 3.9
+Bangalore, India
+GPA: 3.1
+
+Jan 2015 - Dec 2016
+Aug 2010 - Aug 2014
+
+WORK EXPERIENCE
+Integra Technologies, LLC
+Remote
+Feb 2017 - Present
+Python Developer Co-op
+• Designed and implemented various REST API's and backend components in a TDD environment.
+• Debug and fix bugs of various priorities, thereby reducing team’s backlog by 30%.
+• Refactor code modules thereby enhancing readability, efficiency and reduced size by more than 40%.
+United Nations Headquarters
+New York
+Aug 2016 - Dec 2016
+Data Analyst and Visualization Intern
+• Tackled business problems by converting raw complex data sets into meaningful and actionable business ideas.
+• Retrieved data using RESTful API's, SQL queries and Stored Procedures in SQL server management studio.
+• Responsible for data cleaning and data modeling for large data sets of multiple UN missions worldwide.
+• Performed data analysis and visualization by building a dynamic dashboard in Qlik Sense.
+Performance Friction Brakes
+Clover, SC
+May 2016 - July 2016
+Software Development Intern
+• Contributed to the User Interface development of an android application that scans linear and QR inventory barcode. •
+Implemented in C# using Xamarin Studio IDE.
+• Adopted good version control techniques and project management tools to design and ship software.
+Long Island University
+Brooklyn, NY
+Aug 2016 – Dec 2016
+Technology Support, Dept. Of Computer Science
+• Performed network administration for installed machines along with setting up lab equipments and project demo
+environments for Masters and Undergraduate students.
+ACADEMIC PROJECTS
+Poll Everywhere Web Application
+• Developed a dynamic poll management application using Spring MVC with Twilio API that manages live voting.
+• Created databases, tables and queries to handle data flow in the application using H2 database.
+Data Analysis of streaming Twitter Data using Pandas and Tweepy
+• Designed a Python application to perform analysis on streaming twitter data on US elections.
+• Incorporated Tweepy REST API’s to retrieve data from Twitter.
+• Effectively utilized Pandas for data analysis and visualized insights using Tableau software.
+Data Mining on Post-operation Medical data set
+• Performed Data Mining preprocessing work on public medical data set using XL Miner.
+• Developed predictive modeling script to model the outcome of post-operation medical data and classified using k-means
+clustering and ID3 classification algorithm in Java.
+Data Cleaning using NLP and NLTK
+• Developed a Python script to clean data in a CSV file by converting data in Title Case to Sentence Case.
+• Successfully leveraged Natural Language Processing using Python's Natural Language Toolkit (NLTK).
+SKILLS
+Data Analytics
+: Python, Qlik Sense, Pandas, MS Excel, Tableau, NLTK, SQL Server Management Studio
+Databases
+: MS SQL, SQL SSIS, Stored Procedures, MySQL, H2 Database
+Web Technology : CSS/HTML, Django, GitHub
+
+
